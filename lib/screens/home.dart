@@ -28,7 +28,7 @@ class _HomePageState extends State<HomePage> {
             children: [
               Center(
                 child: QrImage(
-                  data: 'https://www.instagram.com/soudharoon/',
+                  data: 'https://github.com/Soud-Haroon',
                   version: QrVersions.auto,
                   size: 280,
                   gapless: true,
